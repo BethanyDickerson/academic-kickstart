@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/dicker86@msu.edu/dicker86@msu.edu.github.io.git
+	branch = master
